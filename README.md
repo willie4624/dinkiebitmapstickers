@@ -1,4 +1,4 @@
-# dinkiebitmapstickers
+# Dinkie Bitmap Stickers
 
 本系列表情包为[丁卯点阵体](https://atelier-anchor.com/typefaces/dinkie-bitmap/)的衍生项目，在 11×11 的像素网格中绘制常用 emoji（或微信/微博表情）的 1-bit 版本，并伪装成微信聊天气泡。
 

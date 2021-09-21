@@ -18,7 +18,7 @@ GIF 文件名以英文或汉语拼音随意命名，**并可能包含个人趣�
 
 ## 下载及安装
 
-[丁卯表情包 v1.11 下载](https://github.com/willie4624/dinkiebitmapstickers/archive/refs/tags/v0.11.zip)
+[丁卯表情包 v0.11 下载](https://github.com/willie4624/dinkiebitmapstickers/archive/refs/tags/v0.11.zip)
 
 ### 电脑端
 

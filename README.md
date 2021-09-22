@@ -18,7 +18,7 @@ GIF 文件名以英文或汉语拼音随意命名，**并可能包含个人趣�
 
 ## 下载及安装
 
-[丁卯表情包 v0.11 下载](https://github.com/willie4624/dinkiebitmapstickers/archive/refs/tags/v0.11.zip)
+[丁卯表情包 v0.12 下载](https://github.com/willie4624/dinkiebitmapstickers/archive/refs/tags/v0.12.zip)
 
 ### 电脑端
 
@@ -35,6 +35,23 @@ GIF 文件名以英文或汉语拼音随意命名，**并可能包含个人趣�
 [Eana Hufwe](https://github.com/blueset) 制作的 [Telegram 移植版](https://github.com/blueset/dinkiebitmapstickers)。
 
 ## 更新日志
+
+### 2021.9.22
+v0.12
+
+* 调整了表情分类和文件命名规则，新增「果蔬和饮食」系列（文件名前缀 `p-`），原「物品和图标」中的部分表情转移至此：  
+啤酒、生日蛋糕、可乐、梨
+* 新增表情共 19 个：  
+笑脸和表情：流泪、掩面、再见、学究、派对、偷看、眨眼  
+动物和自然：青蛙  
+物品和图标：眼镜、放大镜、软盘、电脑、相机、手机、手表、对话气泡  
+果蔬和饮食：草莓、西瓜、咖啡  
+* 表情造型调整：  
+叹气、举手、不行、耸肩
+* 添加双表情组合「握手抱拳」「再见再见」「牛蛙」并将文件名前缀改为 `2-`。
+
+_此版本包含单一表情符号共 100 个。_
+
 
 ### 2021.9.20
 v0.11

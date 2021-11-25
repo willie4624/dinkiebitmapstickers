@@ -18,7 +18,7 @@ GIF 文件名以英文或汉语拼音随意命名，**并可能包含个人趣�
 
 ## 下载及安装
 
-[丁卯表情包 v0.12 下载](https://github.com/willie4624/dinkiebitmapstickers/archive/refs/tags/v0.12.zip)
+[丁卯表情包 v0.2 下载](https://github.com/willie4624/dinkiebitmapstickers/archive/refs/tags/v0.2.zip)
 
 ### 电脑端
 
@@ -35,6 +35,20 @@ GIF 文件名以英文或汉语拼音随意命名，**并可能包含个人趣�
 [Eana Hufwe](https://github.com/blueset) 制作的 [Telegram 移植版](https://github.com/blueset/dinkiebitmapstickers)。
 
 ## 更新日志
+
+### 2021.11.25
+v0.2
+
+* 新增表情共 21 个：  
+笑脸和表情：吃瓜、疑问、瞌睡  
+手势和动作：拳头  
+动物和自然：外星人、幽灵、马、鸽子  
+物品和图标：手机、电量低、飞机、火箭  
+果蔬和饮食：草莓、西瓜、咖啡  
+* 表情造型调整：  
+梨、梨谱
+* 添加三表情组合「祝贺三连」（文件名前缀 `3-`）。
+
 
 ### 2021.9.22
 v0.12
